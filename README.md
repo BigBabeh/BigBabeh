@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @BigBabeh
-- 👀 I’m interested in R Programming, Python, and SQL.
-- 🌱 I’m currently learning R Programming and Python with aims to do CyberSecurity in the future.
-- 💞️ I’m looking to collaborate on data analysis projects
-- 📫 How to reach me 
-- 😄 Pronouns: 
+- 👋 Hi, I’m @Li-Sheng
+- 👀 I’m interested in Cybersecurity and Policy
+- 🌱 I’m currently studying at the National University of Singapore under a Dual-Degree Program with minimal links to Cybersecurity. Yet here I am.
+- 💞️ I’m looking to collaborate on Cybersecurity and Quantitative Analysis Projects.
+- 📫 How to reach me: www.linkedin.com/in/ong-li-sheng; lishengworking@gmail.com
 - ⚡ Fun fact: I'm keen on this because of a University course I took, which taught me how to use R Programming.
 
 <!---
